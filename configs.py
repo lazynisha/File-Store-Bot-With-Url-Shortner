@@ -8,7 +8,7 @@ class Config(object):
   DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1002044952858"))
   SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "paisakamalo.com")
   SHORTLINK_API = os.environ.get('SHORTLINK_API', "22c79736940cabb6048ac6f02a8b10d19c585b11")
-  BOT_OWNER = int(os.environ.get("BOT_OWNER", "6288746313"))
+  BOT_OWNER = int(os.environ.get("BOT_OWNER", "1416665831"))
   DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://lazynishatc:85yCb8eahNNv7VC6@lazynisha.g4gwfir.mongodb.net/?retryWrites=true&w=majority")
   UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "-1001993453001")
   LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002045652808")
@@ -23,7 +23,7 @@ Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edi
 
 ╭────[ 🔅FɪʟᴇSᴛᴏʀᴇBᴏᴛ🔅]────⍟
 │
-├🔸 My Name: [FileStore Bot](https://t.me/{lazynishabot"})
+├🔸 My Name: [FileStore Bot](BOT_USERNAME"})
 │
 ├🔸 Language: [Python 3](https://www.python.org)
 │
